@@ -3,38 +3,39 @@ lm14@my.fsu.edu
 
 ## EDUCATION
 ### Master of Science in Information	 				     Anticipated  2020
-    Florida State University | Tallahassee, FL | ALA Accredited
-### Bachelor of Art in Studio Art								   2018
-    Florida State University | Tallahassee, FL | summa cum laude
+   Florida State University | Tallahassee, FL | ALA Accredited
+### Bachelor of Art in Studio Art					  	     2018
+   Florida State University | Tallahassee, FL | summa cum laude
 
 ## EXPERIENCE
-### Graduate Assistant							               08/2018 - Present
-    Florida State University Libraries | Tallahassee, FL
+### Graduate Assistant							         08/2018 - Present
+   Florida State University Libraries | Tallahassee, FL
+   
 Develop discussion series for scholarly editors on campus to consider issues in scholarly communication
 Assist with file formatting and conversion for Open Educational Resources published by the Libraries 
 Manage Open Access Fund proposals
-### Digital Scholarship Intern						         01/2018 - 08/2018
-    Florida State University Libraries | Tallahassee, FL		
+### Digital Scholarship Intern						     01/2018 - 08/2018
+   Florida State University Libraries | Tallahassee, FL		
 Assist in archiving institutional repository objects including faculty journal articles, conference materials, and research and technical reports
 Update Open Educational Resources LibGuide with discipline-specific resources
 Convert file formats for open mathematics textbook for copyediting
 Encode a rare manuscript for a comparative edition in TEI
-### Undergraduate Research Opportunity Program Leader		     08/2016 - 05/2018
-    Florida State University | Tallahassee, FL
+### Undergraduate Research Opportunity Program Leader	 08/2016 - 05/2018
+   Florida State University | Tallahassee, FL
 Mentor 14 undergraduate students in a bi-weekly, for-credit colloquium on research methods and ethics, applying for funding opportunities, and preparing for academic presentations
 Collaborate with a co-teacher to create weekly lesson plans and classroom activities that align with weekly and semester course objectives
 Participate in a semester-long training course on leadership strategies
-### Editor-in-Chief								     05/2017 - 05/2018
-    The Owl | Tallahassee, FL
+### Editor-in-Chief								         05/2017 - 05/2018
+   The Owl | Tallahassee, FL
 Manage workflow for Florida State University’s undergraduate research journal, The Owl, from review and editing to layout and printing
 Collaborate with six associate editors to copyedit accepted articles
 Design and proofread 100 pages of print layout
 Design and distribute a monthly newsletter to our 400+ student mailing list	  
-### Copyeditor								     07/2016 - 05/2017
-    The Journal of Art for Life | Tallahassee, FL
+### Copyeditor								             07/2016 - 05/2017
+   The Journal of Art for Life | Tallahassee, FL
 Copyedit and proofread academic articles from Arts Administration, Art Therapy, Art Education, and Museum Studies scholars 
 Follow APA style guidelines
 
 ## SERVICE	
-### Secretary
-    ALA Student Chapter | Tallahassee, FL			   	     08/2018 - Present	
+### Secretary                                            08/2018 - Present
+   ALA Student Chapter | Tallahassee, FL			   	    	

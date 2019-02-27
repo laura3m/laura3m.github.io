@@ -4,9 +4,11 @@
 ## EDUCATION
 ### Master of Science in Information	 				     
    Anticipated  2020
+   
    Florida State University | Tallahassee, FL | ALA Accredited
 ### Bachelor of Art in Studio Art					  	     
    2018
+   
    Florida State University | Tallahassee, FL | summa cum laude
 
 ## EXPERIENCE
